@@ -25,9 +25,9 @@
 <!-- <div style="position:relative; align-items: center; height:auto; width: 100vw; margin: 0; padding: 0;"> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" 
-       style="height: 130px; width: auto;" align="left">
+       style="height: 130px; width: auto;" align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
-       style="height: 130px; width: auto;" align="center">
+       style="height: 130px; width: auto;" align="right">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrbs327" 
        style="height: 131px; width: auto;" align="right">
 </p>
