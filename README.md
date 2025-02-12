@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/w___joseph/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <hr>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100vw; margin: 0; padding: 0;gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100vw; margin: 0; padding: 0;gap: 100px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" 
        style="height: 150px; width: auto; flex: 1; object-fit: contain;">
   <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
