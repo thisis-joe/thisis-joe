@@ -23,6 +23,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100vw; margin: 0; padding: 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" 
        style="height: 150px; width: auto; flex-grow: 1; object-fit: contain;">
+  <div style="width:30%;"></div>
   <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
        style="height: 150px; margin-left:10%; width: auto; flex-grow: 1; object-fit: contain;">
 </div>
