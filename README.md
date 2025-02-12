@@ -24,11 +24,11 @@
 <hr>
 <div style="display: flex; justify-content: space-between; align-items: center; height: 150px; width: 100vw; margin: 0; padding: 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" 
-       style="height: 100vh; width: auto; flex: 1; object-fit: contain;">
+       style="height: 100%; width: auto; flex: 1; object-fit: contain;">
   <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
-       style="height: 100vh; width: auto; flex: 0; object-fit: contain;">
+       style="height: 100%; width: auto; flex: 0; object-fit: contain;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrbs327" 
-       style="height: 100vh; width: auto; flex: 1; object-fit: contain;">
+       style="height: 100%; width: auto; flex: 1; object-fit: contain;">
 </div>
 
 
