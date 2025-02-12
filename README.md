@@ -16,6 +16,12 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&color=C0C0C0&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ### Click-To-Contact
 <a href="mailto:wdg0434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EB%8F%99%EA%B7%A0-%EC%9A%B0-6778aa16b/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
