@@ -21,9 +21,10 @@
 
 <hr>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark"></div>
-  <div><img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark"/></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" style="max-width: 100%; height: auto;">
 </div>
+
 
 <hr>
 🔭 Currently working on Programmers DevCourse Backend_5<br>
