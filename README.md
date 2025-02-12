@@ -21,7 +21,7 @@
 
 <hr>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&show_icons=true&theme=github_dark"/></a>a>
+  <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark"/></a>a>
 
 <hr>
 🔭 Currently working on Programmers DevCourse Backend_5<br>
