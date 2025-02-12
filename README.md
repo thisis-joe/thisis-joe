@@ -33,7 +33,6 @@
        style="height: 131px; width: auto;" >
 </p>
 <hr>
-
 🔭 Currently working on Programmers DevCourse Backend_5<br>
 🌱 Currently learning SpringBoot & Java <br>
 👯 Looking to collaborate on any Finance/Stocks projects.. <br>
@@ -41,3 +40,4 @@
 💬 Ask me about anything.. <br>
 😄 Pronouns: don't think too much..<br>
 ⚡ Life goal: SBD 700
+<hr>
