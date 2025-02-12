@@ -36,5 +36,4 @@
 🤔 Looking for the job in Finance/Stocks backend engineer<br>
 💬 Ask me about anything.. <br>
 😄 Pronouns: don't think too much..<br>
-⚡ Fun fact: Life goal ➲ SBD 700 <br> 
-<br>
+⚡ Life goal: SBD 700
