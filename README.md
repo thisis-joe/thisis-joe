@@ -26,11 +26,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
        style="height: 200px; width: auto; flex-grow: 1; object-fit: contain;">
 </div> -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100vw; height: 250px; margin: 0; padding: 0;">
+<div style="display: flex; justify-content: space-between; align-items: stretch; width: 100vw; margin: 0; padding: 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" 
-       style="width: 50%; height: 100%; object-fit: cover;">
+       style="width: 50%; height: auto; object-fit: contain;">
   <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
-       style="width: 50%; height: 100%; object-fit: cover;">
+       style="width: 50%; height: auto; object-fit: contain;">
 </div>
 
 
