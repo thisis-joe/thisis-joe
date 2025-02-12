@@ -7,5 +7,5 @@
 💬 Ask me about anything.. <br>
 📫 How to reach me: email me anytime..<br>
 😄 Pronouns: don't think too much..<br>
-⚡ Fun fact: Life goal => SBD 700<br>
+⚡ Fun fact: Life goal ➲ SBD 700 <br> 
 <br>
