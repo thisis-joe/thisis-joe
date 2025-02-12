@@ -20,23 +20,15 @@
 <a href="https://www.instagram.com/w___joseph/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/woodong327?si=48b2490a8eb84b0b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
-<br>
-<hr>
-<!-- <div style="position:relative; align-items: center; height:auto; width: 100vw; margin: 0; padding: 0;"> -->
-<p align="center">
+<hr><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" 
        style="height: 130px; width: auto;" >
   <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
        style="height: 130px; width: auto;" >
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrbs327" 
        style="height: 131px; width: auto;" >
-</p>
-  
-<!-- </div> -->
+</p><hr>
 
-<br>
-
-<hr>
 🔭 Currently working on Programmers DevCourse Backend_5<br>
 🌱 Currently learning SpringBoot & Java <br>
 👯 Looking to collaborate on any Finance/Stocks projects.. <br>
