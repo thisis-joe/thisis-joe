@@ -20,19 +20,12 @@
 <a href="https://www.instagram.com/w___joseph/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <hr>
-<!-- <div style="display: flex; justify-content: space-between; align-items: center; width: 100vw; margin: 0; padding: 0;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100vw; margin: 0; padding: 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" 
        style="height: 200px; width: auto; flex-grow: 1; object-fit: contain;">
   <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
-       style="height: 200px; width: auto; flex-grow: 1; object-fit: contain;">
-</div> -->
-<div style="display: flex; justify-content: space-between; align-items: stretch; width: 100vw; margin: 0; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" 
-       style="width: 50%; height: auto; object-fit: contain;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
-       style="width: 50%; height: auto; object-fit: contain;">
+       style="height: 200px; margin-left:10%; width: auto; flex-grow: 1; object-fit: contain;">
 </div>
-
 
 
 
