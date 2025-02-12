@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/w___joseph/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/woodong327?si=48b2490a8eb84b0b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
-
+<br>
 <hr>
 <!-- <div style="position:relative; align-items: center; height:auto; width: 100vw; margin: 0; padding: 0;"> -->
 <p align="center">
