@@ -30,7 +30,6 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrbs327" 
        style="height: 131px; width: auto;" >
 </p>
-<hr>
 🔭 Currently working on Programmers DevCourse Backend_5<br>
 🌱 Currently learning SpringBoot & Java <br>
 👯 Looking to collaborate on any Finance/Stocks projects.. <br>
