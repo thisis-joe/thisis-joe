@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/w___joseph/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <hr>
-[!https://github-readme-stats.vercel.app/api/top-langs/?username={thisis-joe}&theme=blue-green]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={thisis-joe}&theme=blue-green)
 
 
 <hr>
