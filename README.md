@@ -1,8 +1,8 @@
 ### DongKyun Woo (Joseph)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thisis-joe=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hisis-joe=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hisis-joe=anuraghazra&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thisis-joe=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?thisis-joe=anuraghazra&show_icons=true&theme=solarized-light)
 
 🔭 Currently working on Programmers DevCourse Backend_5<br>
 🌱 Currently learning SpringBoot & Java <br>
