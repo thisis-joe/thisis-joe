@@ -27,7 +27,7 @@
        style="height: 120px; width: auto; flex: 1; object-fit: contain;">
   <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
        style="height: 120px; width: auto; flex: 0; object-fit: contain;">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrbs327(https://solved.ac/ehdrbs327/)" 
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrbs327" 
        style="height: 120px; width: auto; flex: 1; object-fit: contain;">
 </div>
 
