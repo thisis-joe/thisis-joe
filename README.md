@@ -1,5 +1,3 @@
-<hr>
-
 ### Currently Use
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
@@ -40,4 +38,3 @@
 💬 Ask me about anything.. <br>
 😄 Pronouns: don't think too much..<br>
 ⚡ Life goal: SBD 700
-<hr>
