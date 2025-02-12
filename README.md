@@ -2,7 +2,7 @@
 
 🔭 Currently working on Programmers DevCourse Backend_5<br>
 🌱 Currently learning SpringBoot & Java <br>
-👯 Looking to collaborate on anyone <br>
+👯 Looking to collaborate on any Finance/Stocks projects.. <br>
 🤔 Looking for the job in Finance/Stocks backend engineer<br>
 💬 Ask me about anything.. <br>
 📫 How to reach me: email me anytime..<br>
