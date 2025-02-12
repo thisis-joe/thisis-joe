@@ -1,4 +1,4 @@
-### 우동균
+### DongKyun Woo (Joseph)
 
 🔭 Currently working on Programmers DevCourse Backend_5<br>
 🌱 Currently learning SpringBoot & Java <br>
