@@ -11,7 +11,7 @@
 ### Experienced for work / for fun 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
-![myBatis](https://img.shields.io/badge/myBatis-grey?style=flat&logo=myBatis&logoColor=white")
+![myBatis](https://img.shields.io/badge/myBatis-grey?style=flat&logo=mybatis&logoColor=white")
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
