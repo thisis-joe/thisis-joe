@@ -6,7 +6,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&color=white&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&color=grey&logoColor=white)
-
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ### Experienced for work / for fun 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
@@ -18,8 +17,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-23172BF4?logo=jira&logoColor=fff)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-23172BF4?logo=bitbucket&logoColor=fff)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&color=C0C0C0&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
