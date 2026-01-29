@@ -42,8 +42,8 @@
        style="height: 131px; width: auto;" >
 </p>
 <hr>
-🔭 Currently working on Programmers DevCourse Backend_5<br>
-🌱 Currently learning SpringBoot & Java <br>
+🔭 Currently focus on SSAFY_15th<br>
+🌱 Currently learning SpringBoot / ML <br>
 👯 Looking to collaborate on any Finance/Stocks projects.. <br>
 🤔 Looking for the job in Finance/Stocks backend engineer<br>
 💬 Ask me about anything.. <br>
