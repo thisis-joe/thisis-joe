@@ -36,8 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisis-joe&layout=compact&theme=github_dark" 
        style="height: 130px; width: auto;" >
-  <img src="https://github-readme-stats.vercel.app/api?username=thisis-joe&layout=compact&show_icons=true&theme=github_dark" 
-       style="height: 130px; width: auto;" >
+  <img src="https://githubcard.com/g/_3_u_Hz-.svg">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrbs327" 
        style="height: 131px; width: auto;" >
 </p>
