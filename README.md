@@ -6,7 +6,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&color=white&logoColor=black)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 
-### Experienced for work / for fun 
+### Skills I have. for work / for fun. 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 ![myBatis](https://img.shields.io/badge/myBatis-grey?style=flat&logo=mybatis&logoColor=white")
