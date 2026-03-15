@@ -1,7 +1,9 @@
 ### Currently on
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 
->> whatelse i can do is
+<details>
+<summary>what else i can do is..</summary>
+<div markdown="1">
   ### Frameworks... for work / for fun. 
   ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
   ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&color=C0C0C0&logoColor=white)
@@ -42,6 +44,11 @@
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-%23172BF4?logo=jira&logoColor=fff)
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-%23172BF4?logo=bitbucket&logoColor=fff)
+
+
+</div>
+</details>
+ 
 
 ### Click-To-Contact
 <a href="mailto:wdg0434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
