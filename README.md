@@ -1,3 +1,33 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20My%20Repo&fontSize=50&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisis-joe&theme=github-compact&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 📟 System Status (Analog Dot Style)
+
+<p align="center">
+  <img src="https://github-user-contents.githubusercontent.com/assets/96711842/snake.svg" alt="snake" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42FB07&center=true&vCenter=true&width=435&lines=Initializing+System...;Loading+Algorithm+Skills...;Checking+Biohacking+Stats...;Status:+Ready+to+Code" alt="Typing SVG" />
+</p>
+
+---
+
+### 👾 Tech Stack (Dot Badges)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
+
+
 ### Currently on
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 
