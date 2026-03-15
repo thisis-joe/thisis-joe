@@ -58,11 +58,7 @@
 <a href="https://open.spotify.com/user/woodong327?si=48b2490a8eb84b0b"><img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&fontColor=black&logoColor=black"/></a>
 <hr>
 
-<hr>
-🔭 Currently focus on SSAFY_15th<br>
-🌱 Currently learning SpringBoot / ML <br>
-👯 Looking to collaborate on any Finance/Stocks projects.. <br>
-🤔 Looking for the job in Finance/Stocks backend engineer<br>
-💬 Ask me about anything.. <br>
-😄 Pronouns: don't think too much..<br>
+🔭 Currently focus on SSAFY_15th and my Finance AI project.. you can check up on my repo soon! (now in private.) <br>
+🌱 Currently learning SpringBoot / ML / RAG / LangChain <br>
+😄 Pronouns: better than yesterday <br>
 ⚡ Life goal: SBD 700
