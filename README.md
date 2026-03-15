@@ -7,7 +7,7 @@
 </p>
 
 ---
-![snake animation](https://raw.githubusercontent.com/thisis-joe/thisis-joe/output/github-snake.svg)
+![snake animation](https://github.com/thisis-joe/thisis-joe/raw/output/github-snake.svg)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42FB07&center=true&vCenter=true&width=435&lines=Initializing+System...;Loading+Algorithm+Skills...;Checking+Biohacking+Stats...;Status:+Ready+to+Code" alt="Typing SVG" />
 </p>
