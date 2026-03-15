@@ -11,7 +11,7 @@
 ### 📟 System Status (Analog Dot Style)
 
 <p align="center">
-  <img src="https://github-user-contents.githubusercontent.com/assets/96711842/snake.svg" alt="snake" />
+  <img src="https://github-user-contents.githubusercontent.com/assets/thisis-joe/snake.svg" alt="snake" />
 </p>
 
 <p align="center">
