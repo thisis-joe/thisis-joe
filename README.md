@@ -6,8 +6,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisis-joe&theme=github-compact&area=true&hide_border=true" width="100%" />
 </p>
 
-  ![snake animation](https://github.com/thisis-joe/thisis-joe/raw/output/github-snake.svg)
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisis-joe/thisis-joe/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thisis-joe/thisis-joe/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thisis-joe/thisis-joe/output/github-snake-dark.svg">
+  </picture>
+</p>
 
 ### Currently on
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
