@@ -1,13 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42FB07&center=true&vCenter=true&width=435&lines=Good+To+See+You+!+!+!+!;" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisis-joe&theme=github-compact&area=true&hide_border=true" width="100%" />
 </p>
-<p align="center">
+
   ![snake animation](https://github.com/thisis-joe/thisis-joe/raw/output/github-snake.svg)
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42FB07&center=true&vCenter=true&width=435&lines=Good+To+See+You+!+!+!+!;" alt="Typing SVG" />
-</p>
+
 
 ### Currently on
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
