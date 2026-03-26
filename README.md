@@ -20,7 +20,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 
 <details>
-<summary>what else i can do is..</summary>
+<summary>what else i can do ..</summary>
 <div markdown="1">
   
   ### Frameworks... for work / for fun. 
