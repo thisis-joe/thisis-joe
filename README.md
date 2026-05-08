@@ -76,6 +76,6 @@
 
 ### 📱 Click To Contact
 <a href="mailto:wdg0434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/%EB%8F%99%EA%B7%A0-%EC%9A%B0-6778aa16b/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+<a href="https://www.linkedin.com/in/josephdongkyunwoo/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 <a href="https://www.instagram.com/w___joseph/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/woodong327?si=48b2490a8eb84b0b"><img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&fontColor=black&logoColor=black"/></a>
