@@ -17,7 +17,7 @@
 </table>
 
 ### 📝 RESUME
-<a href="https://www.notion.so/202003092024/32c61b3dc08f80e8adfddb24c5403e46">
+<a href="https://202003092024.notion.site/portfolio">
   <img src="https://img.shields.io/badge/RESUME : CLICK_HERE! -black?style=for-the-badge&logo=notion&logoColor=white" height="45"/>
 </a>
 
