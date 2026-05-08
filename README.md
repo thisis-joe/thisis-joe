@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42FB07&center=true&vCenter=true&width=435&lines=Good+To+See+You+!+!+!+!;" alt="Typing SVG" />
 </p>
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -16,54 +17,65 @@
   </tr>
 </table>
 
-### 📝 RESUME
-<a href="https://202003092024.notion.site/portfolio">
-  <img src="https://img.shields.io/badge/RESUME : CLICK_HERE! -black?style=for-the-badge&logo=notion&logoColor=white" height="45"/>
-</a>
+### 💼 RESUME / ✏️ BLOG 
 
-<br/>
+<p>
+  <a href="https://202003092024.notion.site/portfolio">
+    <img src="https://img.shields.io/badge/Resume-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="42"/>
+  </a>
+  <a href="https://thisis-joe.github.io/">
+    <img src="https://img.shields.io/badge/Blog-GitHub_Pages-000000?style=for-the-badge&logo=githubpages&logoColor=white" height="42"/>
+  </a>
+</p>
 
-### 🛠 Currently On
+### ❤️‍🔥 Currently On
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 
 <details>
 <summary>.. 🔍 what else i can do .. </summary>
 
   ## 🏗 Frameworks... for work / for fun. 
+  
   ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
   ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&color=C0C0C0&logoColor=white)
 
   ## 🧠 ML/Data ..
+  
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
  
   ## ☁️ Distributed with ..
+  
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=black)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   
   ## 🤖 LLMs with CLI ..
+  
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
   ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)  
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
   
   ## 💻 Languages.. DBMSs... ORMs...
+  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
   ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  ![myBatis](https://img.shields.io/badge/myBatis-grey?style=flat&logo=mybatis&logoColor=white")
+  ![myBatis](https://img.shields.io/badge/myBatis-grey?style=flat&logo=mybatis&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
   
   ## 🎨 Others..
+  
   ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&color=white&logoColor=black)
   [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
@@ -75,7 +87,16 @@
 </details>
 
 ### 📱 Click To Contact
-<a href="mailto:wdg0434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/josephdongkyunwoo/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-<a href="https://www.instagram.com/w___joseph/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/woodong327?si=48b2490a8eb84b0b"><img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&fontColor=black&logoColor=black"/></a>
+
+<a href="mailto:wdg0434@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/josephdongkyunwoo/">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+</a>
+<a href="https://www.instagram.com/w___joseph/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://open.spotify.com/user/woodong327?si=48b2490a8eb84b0b">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&fontColor=black&logoColor=black"/>
+</a>
