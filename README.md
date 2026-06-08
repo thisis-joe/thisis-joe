@@ -1,23 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42FB07&center=true&vCenter=true&width=435&lines=Good+To+See+You+!+!+!+!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9F9F&center=true&vCenter=true&width=1000&lines=hey!+how+are+you+doing?+let's+make+some+useful+things+with+me.;" alt="Typing SVG" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisis-joe&theme=github-compact&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisis-joe/thisis-joe/output/github-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thisis-joe/thisis-joe/output/github-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thisis-joe/thisis-joe/output/github-snake-dark.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
 
-### 💼 RESUME / ✏️ BLOG 
+### RESUME / BLOG 
 
 <p>
   <a href="https://202003092024.notion.site/portfolio">
@@ -28,7 +14,7 @@
   </a>
 </p>
 
-### ❤️‍🔥 Currently On
+### Currently On
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 
@@ -86,7 +72,7 @@
 
 </details>
 
-### 📱 Click To Contact
+### Contacts
 
 <a href="mailto:wdg0434@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
