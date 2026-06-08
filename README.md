@@ -3,7 +3,7 @@
 </p>
 
 
-### RESUME / BLOG 
+### Info
 
 <p>
   <a href="https://202003092024.notion.site/portfolio">
