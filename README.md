@@ -21,10 +21,10 @@
 
 <p>
   <a href="https://202003092024.notion.site/portfolio">
-    <img src="https://img.shields.io/badge/Resume-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="42"/>
+    <img src="https://img.shields.io/badge/-Resume-2C3E50?logo=googledocs&logoColor=white" height="42"/>
   </a>
   <a href="https://thisis-joe.github.io/">
-    <img src="https://img.shields.io/badge/Blog-GitHub_Pages-000000?style=for-the-badge&logo=githubpages&logoColor=white" height="42"/>
+    <img src="https://img.shields.io/badge/-Blog-27AE60?logo=rss&logoColor=white" height="42"/>
   </a>
 </p>
 
