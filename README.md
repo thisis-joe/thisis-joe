@@ -1,9 +1,6 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9F9F&center=true&vCenter=true&width=1000&lines=good+to+see+you+here;" alt="Typing SVG" />
 </p>
-
-### Contact
 
 <a href="mailto:wdg0434@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
